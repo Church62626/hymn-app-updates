@@ -4,11 +4,14 @@
   "forceUpdate": false,
   "apkUrl": "https://github.com/Church62626/hymn-app-updates/releases/download/v2.1.3/Urdu.Hymns_v2.1.3.apk",
   "changes": [
-    "Features toolbar",
-  "Themes",
+    "Premium Glassmorphic UI & Layout",
+  "Seamless Video Splash Screen",
   "app online updating function",
   "UI improvements",
   "bug fix",
+    "Hardware-Accelerated Audio Player Island ",
+    "Diagnostic Feedback & Support System",
+    "Multi-Language Segmented Toggle",
     "Themes Compatibility"
   ]
 }
